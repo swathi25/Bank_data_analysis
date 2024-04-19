@@ -1,5 +1,5 @@
 Finance Domain.
-SQL + Power BI are used.
+SQL + Power BI are the tools used.
 
 Objective of the project was to find Whether the bank in a better position or not by analyzing various parameters like Total loan applications , Total loan amount issued, Total loan amount received , Good loan percentage and bad loan percentage.
 Data was given as excel file.
